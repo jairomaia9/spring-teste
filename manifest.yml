@@ -1,0 +1,8 @@
+---
+applications:
+- name: minhappweb
+  memory: 512M
+  instances: 1
+  host: minhappweb
+  path: build/libs/spring-music.war
+
